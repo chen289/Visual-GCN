@@ -15,3 +15,4 @@ Download the videos, CV and NLP annotations from OneDrive.
 * CUDA = 11.1
 
 ### Preprocesssing Data
+For preprocessing data steps go [here](https://github.com/chen289/Visual-GCN/tree/main/data).
