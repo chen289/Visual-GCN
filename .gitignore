@@ -1,1 +1,5 @@
-/data/
+/data/cv_annotations
+/data/frames
+/data/nlp_annotations
+/data/videos
+/data/visual_features
